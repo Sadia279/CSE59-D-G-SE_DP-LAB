@@ -144,6 +144,10 @@ The main functions of the Alarm Clock are:
 
 ---
 
+# ER diagram
+
+<img src="images/images.png">
+
 ## **5. External Interface Description**
 
 * **GUI**:
